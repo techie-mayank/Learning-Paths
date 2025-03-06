@@ -1,4 +1,4 @@
-# Docker Learning Path
+# Docker
 ## Beginner Level
 ### 1.1 Introduction to Docker
 #### What is Docker?
