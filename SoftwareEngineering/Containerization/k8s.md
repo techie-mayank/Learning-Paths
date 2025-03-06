@@ -1,4 +1,4 @@
-# Kubernetes Learning Path
+# Kubernetes
 ## Beginner Level
 ### 1.1 Introduction to Kubernetes
 #### What is Kubernetes?
